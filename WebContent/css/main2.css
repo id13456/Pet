@@ -1,0 +1,72 @@
+body {font-family:한컴 바겐세일 M; background-color:#F5F8FF;}
+a { text-decoration: none; }
+
+#header { position: relative; width: 101%; height: 80px; left: -5px; border-bottom: 1px solid silver; }
+#header1 { position: relative; width:300px; height: 80px; float:left; margin-left:400px;
+				font-weight:bold; font-size:300%; color:#0E0273; text-align:center; line-height:80px;}
+#header2 { position: relative; float: right; width: 600px; height: 80px; line-height:50px;}
+#hlogin { position: relative; float:right; border: 1px solid #459fed; width: 100px; height: 40px; 
+	border-radius: 25px 25px 25px 25px; text-align: center; margin-right: 35px; line-height: 40px; 
+	color: #459fed; }
+#my {position: relative; float:left; width: 230px; top:-5px; font-weight:bold; }
+
+#hlogin:hover { background-color: #459fed; color: white; }
+#main { min-height: 800px; }
+.clear { clear: both; }
+li { list-style: none; }
+#sub_menu { position: relative; float: left; width: 315px; border-right: 1px solid silver; min-height: 800px; 
+	font-family: 한컴 바겐세일 M; font-size: 130%;  }
+#footer { height: 80px; width:800px; align:center; margin-left:400px; margin-top:20px;}
+#sub_img { height: 350px; position: absolute; }
+#list { position: relative; top: 350px; width: 315px; height:400px; text-align:left;}
+ul a{ color : black; }
+#m_list li { line-height: 50px; }
+#board { border-top: 1px solid #444444; border-collapse: collapse; margin-top: 50px;  font-size: 110%;}
+#board th, td { border-bottom: 1px solid #444444; padding: 10px; }
+#img_list img{ width: 360px; height: 225px; }
+#img_list li { float: left; margin-left: 50px; }
+
+#main_top { position: relative; width: 1100px; height: 80px; margin-left: 330px; background:  #F5F8FF; }
+#top_title { position:relative; width:500px; height:80px; float:left; }
+#img_menu { position:relative; float:right; width:550px; height:50px; line-height:30px;  top:30px;}
+#img_menu2 { position:relative; float:left; width:450px; height:80px; line-height:30px; margin-top:10px; 
+			margin-left:60px;}
+
+#img_board { position: absolute; width: 1100px; height: 700px; margin-left: 300px; top:168px; overflow:auto;  }
+#img_board1 { position: absolute; width: 1100px; height: 780px; margin-left: 300px; top:100px; overflow:auto; }
+
+#img { width: 360px; height: 300px;}
+#img_text { width: 360px; height: 30px; text-align: center; font-size: 110%; line-height: 30px; font-weight:bold;}
+#img_text_sub { float:right; width: 150px; height: 42px; font-size: 85%;text-align:right;}
+#shop_btn { margin:0 auto; margin-top:20px; text-align:center; width:500px;}
+
+
+#btn { width: 80px; height: 30px; text-align: center; font-size: 100%; border-radius: 10px 10px 10px 10px; margin-right: 5px; 
+			font-family:한컴 바겐세일 M; font-weight: bold; background-color:#D1DBFF; }
+#buttons { margin:0 auto; width: 1000px; height: 50px; text-align: center; margin-top:50px;}
+
+#login_box { margin:0 auto; width:800px; height: 300px; margin-top: 200px; }
+h1, h2 , h3{ text-align: center; }
+#login_box1 { float: left; width: 500px; height: 190px; line-height: 50px; text-align: center; border-right: 1px solid black; }
+#login_box2 { position: absolute; margin-left: 530px; width: 300px; height: 200px; }
+form .button { width: 150px; height: 40px; font-weight: bold; border-radius: 10px 10px 10px 10px; 
+					font-family: 한컴 바겐세일 M; background-color:#D1DBFF;  font-size:110%;}
+
+#login { float: left; width: 500px; height: 50px; text-align: left; font-size: 150%; }
+#id, #pwd { position: relative; float: left; width: 500px; height: 50px; text-align: center; font-size: 110%; }
+
+#login_button { width: 500px; height: 100px; line-height: 150px;}
+#p_box { width: 300px; height: 70px; }
+#l_img { float: left; width: 80px; height: 70px; }
+.login { position: absolute; margin-left: 70px; width: 220px; height: 70px; }
+.b_login { width: 220px; height: 70px; text-align: center; font-size: 130%; font-family:한컴 바겐세일 M; background-color:#D1DBFF; 
+	font-weight: bold; border-radius: 10px 10px 10px 10px; }
+
+#p_login_box { margin:0 auto; width:800px; height: 450px; margin-top: 150px; }
+#hleper_login { margin:0 auto; width: 500px; height: 280px; }
+#p_div { width: 500px; height: 80px; }
+#p_btn { width: 500px; height: 70px; margin-top: 45px; text-align: center; }
+.p_login { width: 500px; height: 70px; text-align: center; font-size: 180%; border: 0; 
+				font-family:한컴 바겐세일 M; background-color:#D1DBFF; }
+
+#pag{ position:relative; width:100px; height:50px; left:850px; top:-80px;}
